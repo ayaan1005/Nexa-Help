@@ -5,8 +5,9 @@ Nexa Is A Fun/Multipurpose Bot, Next Verison Of Alix But With Less Features. But
 
 ## [Nexa Wiki](https://github.com/ayaan1005/Nexa-Help/wiki)
 
-*   [Moderation Commands](https://github.com/ayaan1005/Nexa-Help/wiki)
-*   [Giveaway Commands](https://github.com/ayaan1005/Nexa-Help/wiki)
-*   [Action Commands](https://github.com/ayaan1005/Nexa-Help/wiki)
-*   [Music Commands](https://github.com/ayaan1005/Nexa-Help/wiki)
-*   [Setup Commands](https://github.com/ayaan1005/Nexa-Help/wiki)
+*   [Moderation Commands](https://github.com/ayaan1005/Nexa-Help/wiki/Moderation-Command)
+*   [Info Commands](https://github.com/ayaan1005/Nexa-Help/wiki/Info-Command)
+*   [Giveaway Commands](https://github.com/ayaan1005/Nexa-Help/wiki/Giveaway-Command)
+*   [Action Commands](https://github.com/ayaan1005/Nexa-Help/wiki/Action-Command)
+*   [Music Commands](https://github.com/ayaan1005/Nexa-Help/wiki/Music-Command)
+*   [Setup Commands](https://github.com/ayaan1005/Nexa-Help/wiki/Setup-Command)
